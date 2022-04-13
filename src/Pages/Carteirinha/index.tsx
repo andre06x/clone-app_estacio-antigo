@@ -29,8 +29,6 @@ interface EstudanteDadosProps {
 }
 
 const Home = ({ navigation }: any) => {
-
-
   const [imageAvatar, setImageAvatar] = useState('./imagem-branca-grande.png');
 
   useEffect(() => {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 import { View, Image,  ScrollView, TouchableWithoutFeedback } from 'react-native';
 import {
   DrawerItem
