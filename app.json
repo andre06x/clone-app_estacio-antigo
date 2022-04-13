@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Estácio",
+    "slug": "Estacio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/unnamed.png",
+    "splash": {
+      "image": "./assets/imagem.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0070A8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/unnamed.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.exemple.app"
+    },
+    "androidStatusBar":{
+      "backgroundColor":"#036499",
+      "barStyle": "light-content"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
