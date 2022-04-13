@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native ](https://nodejs.org/en/)
 - [Expo](https://docs.expo.dev/)
 
-##Projeto
+## Projeto
 Clone App Estácio Antigo faz parte de uma série de aplicativos que escolhi para clonar a interface e funcionalidades.
 
 <h1>Layout</h1>
